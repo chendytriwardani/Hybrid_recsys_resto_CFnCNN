@@ -1,5 +1,5 @@
 # Hybrid_recsys_resto_CFnCNN
-Ini adalah rekomendasi sistem dengan pendekatan hibrid. pendekatan ini digunakan untuk  menanggulangi kelemahan dari collaborative filtering dan content-based filtering. Pendekatan hibrid yang diaplikasikan menggunakan salah satu  Deep Neural Network yaitu Convolutional Neural Network (CNN). CNN diharapkan dapat membantu mengekstrak konten untuk mendapatkan informasi rekomendasi dari konten. 
+This is a recommendation system with a hybrid approach. This approach is used to overcome the weaknesses of collaborative filtering and content-based filtering. The hybrid approach applied uses one of the Deep Neural Networks, namely the Convolutional Neural Network (CNN). CNN is expected to help extract content to get recommendation information from content. 
 
-Disini adalah link untuk mengunduh dataset:
+Here is the link to download the dataset:
 https://www.yelp.com/dataset
